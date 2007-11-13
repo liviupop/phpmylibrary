@@ -10,7 +10,7 @@ phpMyLibrary is a PHP MySQL Library automation application. The program consist 
 Project plans:
   * improve current codebase
   * enhance the documentation
-  * futher enhancement of the phpmylibrary sofware
+  * further enhancement of the phpmylibrary sofware
 
 
 Ultimate goal:
