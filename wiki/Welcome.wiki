@@ -1,4 +1,4 @@
-#summary PhpMyLibrary
+#summary PhpMyLibrary - opensource library automation software
 
 = PhpMyLibrary - opensource library automation software =
 
@@ -19,4 +19,3 @@ Ultimate goal:
 
 Download information:
   * http://sourceforge.net/projects/phpmylibrary
-
