@@ -1,0 +1,22 @@
+#summary PhpMyLibrary
+
+= PhpMyLibrary - opensource library automation software =
+
+phpMyLibrary is a PHP MySQL Library automation application. The program consist of cataloging, circulation, and the webpac module. The programs also has an import export feature. The program strictly follow the USMARC standard for adding materials.
+
+
+= Details =
+
+Project plans:
+  * improve current codebase
+  * enhance the documentation
+  * futher enhancement of the phpmylibrary sofware
+
+
+Ultimate goal:
+  * php-soap server implementation 
+  * java-soap client implementation
+
+Download information:
+  * http://sourceforge.net/projects/phpmylibrary
+
