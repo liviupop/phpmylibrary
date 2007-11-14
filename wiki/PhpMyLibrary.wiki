@@ -1,4 +1,4 @@
-#summary official description of PhpMyLibrary
+#summary descriptions of PhpMyLibrary
 
 Navigation > [Welcome Main Page] / PhpMyLibrary
 
