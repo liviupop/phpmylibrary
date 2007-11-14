@@ -5,9 +5,3 @@ Navigation > [Welcome Main Page] / Resources
 = Resources =
 
 List of digital documents related to PhpMyLibrary. This include howtos, tutorial, training, documentation, etc.
-
-Google search
-  *1
-
-Manually submitted website. If you have documents that you want to be posted/removed please add a comment on this wiki.
-  * *
