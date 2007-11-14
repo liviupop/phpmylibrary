@@ -22,3 +22,4 @@ Download information:
 
 Additional information:
   * [Users] - list of websites that are using PhpMyLibrary
+  * [Resources] - list of websites that mentions PhpMyLibrary. This include howtos, tutorial, training, documentation, etc.
