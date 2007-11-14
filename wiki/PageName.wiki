@@ -1,0 +1,11 @@
+#summary List of websites that are using PhpMyLibrary
+
+= PhpMyLibrary Users =
+
+Listed that were taken from Google search
+
+= Online Library =
+
+Google Search
+  * [http://www.ferrarilibrary.org.vt.edu/index.php Ferrari Library at Casa Maderni]
+  * [http://library.searo.who.int/cphchula/index.php College of Public Health Library]
