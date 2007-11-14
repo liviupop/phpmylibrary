@@ -21,3 +21,11 @@ Links:
   * [http://www.bcnchainat.ac.th/installationandusergauide.pdf PhpMyLibrary Installation for Dummies (Windows)]
   * [http://pycatalog.blogspot.com/ PyCatalog produces book catalog and card catalog in pdf format.]
   * [http://www.ala.org/ala/pla/plapubs/technotes/Open_Source_ILS.pdf ALA Open Source ILS]
+  * [https://drtc.isibang.ac.in/bitstream/1849/409/1/open%20road_main_theme_psm_LDL.pdf Five Laws and Ten Commandments: The Open Road of Library Automation in India]
+
+
+
+
+
+
+-
