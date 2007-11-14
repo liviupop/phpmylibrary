@@ -16,6 +16,7 @@ Google search
   * [http://www.bryanttran.com/eagleproject/index.php St. Theresa Church Library Austin TX]
   * [http://library.usu.ac.id/modules.php?op=modload&name=PhpMyLibrary&file=index Perpustakaan Universitas Sumatera Utara - Indonesia]
   * [http://86.34.139.10/phpmylibrary/index.php Biblioteca Institutul Teologic Adventist Cernica - Romania]
+  * [http://www.ns.ui.edu/phpmylibrary/ E-Library FMIPA UI Gedung A Lantai 2 FMIPA UI Depok - Indonesia]
 
 
 
