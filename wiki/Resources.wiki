@@ -12,3 +12,4 @@ Links:
   * [http://techyteacher.wordpress.com/2007/10/18/how-to-install-phpmylibrary/ How to install PhpMyLibrary]
   * [http://techyteacher.wordpress.com/2007/10/18/intranet-library-cataloging-software/ Intranet library cataloging software]
   * [http://lawlibrary.ucdavis.edu/Lawlib/July03/0295.html Re: Cataloguing software for home library?]
+  * [http://lgrc.lga.gov.ph/wiki/index.php/Offline_System_Administrator_Manual Offline System Administrator Manual]
