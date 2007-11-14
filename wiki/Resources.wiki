@@ -4,7 +4,7 @@ Navigation > [Welcome Main Page] / Resources
 
 = Resources =
 
-List of digital documents related to PhpMyLibrary
+List of digital documents related to PhpMyLibrary. This include howtos, tutorial, training, documentation, etc.
 
 Google search
   *1
