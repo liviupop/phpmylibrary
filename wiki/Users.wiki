@@ -14,7 +14,8 @@ Google search
   * [http://www.biblioteka.gryfice.org.pl/index.php Miejska Biblioteka Publiczna w Gryficach - Poland]
   * [http://nifflheim.arts.ualberta.ca/arclibrary/ University of Alberta Arts Resource Centre Library - Canada]
   * [http://www.bryanttran.com/eagleproject/index.php St. Theresa Church Library Austin TX]
-  * [http://library.usu.ac.id/modules.php?op=modload&name=PhpMyLibrary&file=index Perpustakaan Universitas Sumatera Utara Indonesia]
+  * [http://library.usu.ac.id/modules.php?op=modload&name=PhpMyLibrary&file=index Perpustakaan Universitas Sumatera Utara - Indonesia]
+  * [http://86.34.139.10/phpmylibrary/index.php Biblioteca Institutul Teologic Adventist Cernica - Romania]
 
 
 
