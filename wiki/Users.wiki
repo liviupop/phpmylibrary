@@ -2,10 +2,11 @@
 
 = PhpMyLibrary Users =
 
-Listed websites were taken from Google search
+Listed websites were taken from online search
 
-= Online Library =
-
-Google Search
+Google search
   * [http://www.ferrarilibrary.org.vt.edu/index.php Ferrari Library at Casa Maderni]
   * [http://library.searo.who.int/cphchula/index.php College of Public Health Library]
+
+Manually submitted website. If you like your website to be posted/removed please add a comment on this wiki.
+  * [http://pimedicus.upm.edu.ph/ Dr. Florentino B. Herrera, Jr. Medical Library]
