@@ -7,3 +7,6 @@ Navigation > [Welcome Main Page] / Resources
 List of digital documents related to PhpMyLibrary. This include howtos, tutorial, training, documentation, etc.
 
 * [http://eprints.rclis.org/archive/00008074/ Free/Open source integrated library management systems: comparative analysis of Koha, PHPMyLibrary and OpenBiblio]
+
+* [http://www.geocities.com/marco_corvi/games/kernel/biblio/biblio.txt This page contains an analysis of four OpenSource projects for
+the management of a library.]
