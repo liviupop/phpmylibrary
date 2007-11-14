@@ -24,3 +24,4 @@ Google search
   * [http://www.cejamericas.org/PhpMyLibrary/index.php CEJA - Centro de Estudios de Justicia de las Américas] 
   * [http://hemeroteca.df.uba.ar/revistas/index.php Hemeroteca Departamento de Fisica - 2do Piso Pabellon 1 Ciudad Universitaria - Buenos Aires - Argentina]
   * [http://pimedicus.upm.edu.ph/ Dr. Florentino B. Herrera, Jr. Medical Library  - Philippines]
+  * [http://virtual3.ceipa.edu.co/biblioteca/index.php Biblioteca Antonio Mazo Mejía - Colombia]
