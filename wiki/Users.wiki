@@ -1,6 +1,6 @@
 #summary List of websites that are using PhpMyLibrary
 
-[Welcome Main Page] | Users
+Navigation > [Welcome Main Page] / Users
 
 = PhpMyLibrary Users =
 
