@@ -2,11 +2,11 @@
 
 Navigation > [Welcome Main Page] / PhpMyLibrary
 
-= Sourceforge.net =
+= sourceforge.net =
 
 phpMyLibrary is a PHP MySQL Library automation application. The program consist of cataloging, circulation, and the webpac module. The programs also has an import export feature. The program strictly follow the USMARC standard for adding materials.
 
-= Wikipedia.org =
+= en.wikipedia.org =
 
 PhpMyLibrary is a PHP MySQL Library automation application. The program consists of cataloging, circulation, and webpac modules. The programs also has an import-export feature. The program strictly follows the USMARC standard for adding materials, which is the official Machine Readable Cataloging (MARC) format for digital catalogs for libraries in the United States.
 
