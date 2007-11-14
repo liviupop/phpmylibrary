@@ -21,4 +21,4 @@ Download information:
   * http://sourceforge.net/projects/phpmylibrary
 
 Additional information:
-  * Users - list of websites that are using PhpMyLibrary
+  * [Users] - list of websites that are using PhpMyLibrary
