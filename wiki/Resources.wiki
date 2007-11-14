@@ -19,3 +19,4 @@ Links:
   * [http://whomyanmar.org/EN/Section1_97.htm Training workshop on information management and retrieval for HeLLIS network libraries]
   * [http://www.smecc.org/library_automation_tools_for_you.htm Library Automation Tools For You]
   * [http://www.bcnchainat.ac.th/installationandusergauide.pdf PhpMyLibrary Installation for Dummies (Windows)]
+  * [http://pycatalog.blogspot.com/ PyCatalog produces book catalog and card catalog in pdf format.]
