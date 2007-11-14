@@ -5,3 +5,5 @@ Navigation > [Welcome Main Page] / Resources
 = Resources =
 
 List of digital documents related to PhpMyLibrary. This include howtos, tutorial, training, documentation, etc.
+
+* [http://eprints.rclis.org/archive/00008074/ Free/Open source integrated library management systems: comparative analysis of Koha, PHPMyLibrary and OpenBiblio]
