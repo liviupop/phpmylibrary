@@ -9,3 +9,5 @@ List of digital documents related to PhpMyLibrary. This include howtos, tutorial
 Links:
   * [http://eprints.rclis.org/archive/00008074/ Free Open source integrated library management systems: comparative analysis of Koha, PHPMyLibrary and OpenBiblio]
   * [http://www.geocities.com/marco_corvi/games/kernel/biblio/biblio.txt This page contains an analysis of four OpenSource projects for the management of a library]
+  * [http://techyteacher.wordpress.com/2007/10/18/how-to-install-phpmylibrary/ How to install PhpMyLibrary]
+  * [http://techyteacher.wordpress.com/2007/10/18/intranet-library-cataloging-software/ Intranet library cataloging software]
