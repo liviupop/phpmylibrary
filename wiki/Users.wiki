@@ -1,5 +1,7 @@
 #summary List of websites that are using PhpMyLibrary
 
+[Welcome Main Page] | Users
+
 = PhpMyLibrary Users =
 
 Listed websites were taken from online search and from user submitted link.
