@@ -1,3 +1,5 @@
 #summary official description of PhpMyLibrary
 
+Navigation > [Welcome Main Page] / PhpMyLibrary
+
 phpMyLibrary is a PHP MySQL Library automation application. The program consist of cataloging, circulation, and the webpac module. The programs also has an import export feature. The program strictly follow the USMARC standard for adding materials.
