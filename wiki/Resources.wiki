@@ -13,3 +13,6 @@ Links:
   * [http://techyteacher.wordpress.com/2007/10/18/intranet-library-cataloging-software/ Intranet library cataloging software]
   * [http://lawlibrary.ucdavis.edu/Lawlib/July03/0295.html Re: Cataloguing software for home library?]
   * [http://lgrc.lga.gov.ph/wiki/index.php/Offline_System_Administrator_Manual Offline System Administrator Manual]
+  * [http://www.eahilconfcluj.ro/docs/1b/chalon&al2006_text.pdf Open your mind!
+Selecting and implementing an integrated library system:
+the open-source opportunity]
