@@ -26,5 +26,5 @@ Additional information:
 
 Software release plan:
   * PhpMyLibrary-2.x.x - Free download. Support available from PhpMyLibrary community only. License GNU/GPL. 
-  * PhpMyLibrary-7.x.x - 30 Days Evaluation. Free update and support until December 31, 2008. Will be released as GNU/GPL-licensed software on January 01, 2009. Amount $40
+  * PhpMyLibrary-7.x.x - 30 Days Evaluation. Free update and support until December 31, 2008. Will be released as GNU/GPL-licensed software on January 01, 2009. Amount $375
   * Information on how to buy the new version will be posted here as soon as PhpMyLibrary-7.1.1 is ready for commercial consumption.
