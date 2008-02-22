@@ -8,14 +8,14 @@ phpMyLibrary is a PHP MySQL Library automation application. The program consist 
 = Commercial or Paid Support =
 
 [http://www.rentacoder.com/ Rent A Coder]:
-  * ask a or rent professional coder from around the world here at rentacoder.com
+  * ask a or rent professional coder from around the world here at [http://www.rentacoder.com/ rentacoder.com]
   * tip: they will do your requirements for like $10 to $100
   * you can even even ask them to create new library software for you
   * suggestion: once you ask for paid phpmylibrary support from rentacoder, think of giving back to community. let him/her know that you need the source code and you will send or post it to [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] forum. Or you can even ask them to upload directly to PhpMyLibrary SVN.
   * with this, you not only solve your library needs but also you are able to give back something to the community. so other community with the same requirement will not go to the same scenario that you have in finding solution.
 
 [http://getafreelancer.com/ Get A Freelancer]:
-  * it is same as above.
+  * it is same as above. [http://getafreelancer.com/ getafreelancer.com] provides the same service
   * you will surely find support here at a very small cost.
   * remember to give back to the community, whatever their output, please put on the public forum [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] so other community will benefit from your output.
 
