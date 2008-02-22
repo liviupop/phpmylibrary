@@ -28,4 +28,4 @@ Additional information:
 
 = Free, Community and Programmer Support Public Forum =
   * [http://www.nabble.com/PhpMyLibrary-Userland-f31679.html PhpMyLibrary Userland] - library users looking for free community support
-  * [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] - programmers that are willing to contribute code. Access to code.google.com PhpMyLibrary SVN will be given for those interested.
+  * [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] - public forum for programmers. for interested people that are willing to contribute code access to code.google.com PhpMyLibrary SVN will be given.
