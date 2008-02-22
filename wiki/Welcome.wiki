@@ -7,7 +7,7 @@ phpMyLibrary is a PHP MySQL Library automation application. The program consist 
 
 = Commercial or Paid Support =
 
-[http://www.rentacoder.com/RentACoder/default.asp Rent A Coder]:
+[http://www.rentacoder.com/ Rent A Coder]:
   * ask a or rent professional coder from around the world here at rentacoder.com
   * tip: they will do your requirements for like $10 to $100
   * you can even even ask them to create new library software for you
