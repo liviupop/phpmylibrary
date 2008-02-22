@@ -23,3 +23,7 @@ Download information:
 Additional information:
   * [Users] - list of websites that are using PhpMyLibrary
   * [Resources] - list of websites that mentions PhpMyLibrary. This include howtos, tutorial, training, documentation, etc.
+
+= Public Forum =
+  * [http://www.nabble.com/PhpMyLibrary-Userland-f31679.html PhpMyLibrary Userland] - library users looking for support
+  * [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] - for programmers that are willing to contribute code. Access to code.google.com PhpMyLibrary SVN will be given for those interested.
