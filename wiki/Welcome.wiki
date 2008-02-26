@@ -17,7 +17,7 @@ phpMyLibrary is a PHP MySQL Library automation application. The program consist 
 [http://getafreelancer.com/ Get A Freelancer]:
   * it is same as above. [http://getafreelancer.com/ getafreelancer.com] provides the same service
   * you will surely find support here at a very small cost.
-  * remember to give back to the community, whatever their output, please put on the public forum [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] so other community will benefit from your output.
+  * remember to give back to the community, whatever their output, please put on the public forum [http://groups.google.com/group/phpmylibrary-developers PhpMyLibrary Developers] so other community will benefit from your output.
 
 Download information:
   * http://sourceforge.net/projects/phpmylibrary
@@ -31,5 +31,5 @@ Comments/Suggestion:
   * [http://virtual3.ceipa.edu.co/biblioteca/index.php Biblioteca Antonio Mazo Mejía] - Actual online library in Colombia with 13,965 collection. Search % sign to see it for yourself. View other libraries [Users here] as well.
 
 = Free, Community and Programmer Support Public Forum =
-  * [http://www.nabble.com/PhpMyLibrary-Userland-f31679.html PhpMyLibrary Userland] - library users looking for free community support
-  * [http://www.nabble.com/PhpMyLibrary-Programmerland-f31680.html PhpMyLibrary Programmerland] - public forum for programmers. for interested people that are willing to contribute code access to code.google.com PhpMyLibrary SVN will be given.
+  * [http://groups.google.com/group/phpmylibrary-users PhpMyLibrary Users] - library users looking for free community support
+  * [http://groups.google.com/group/phpmylibrary-developers PhpMyLibrary Developers] - public forum for programmers. for interested people that are willing to contribute code access to code.google.com PhpMyLibrary SVN will be given.
