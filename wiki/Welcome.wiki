@@ -7,6 +7,7 @@ phpMyLibrary is a PHP MySQL Library automation application. The program consist 
 = Free, Community and Programmer Support Public Forum =
   * [http://groups.google.com/group/phpmylibrary-users PhpMyLibrary Users] - library users looking for free community support
   * [http://groups.google.com/group/phpmylibrary-developer PhpMyLibrary Developers] - public forum for programmers. for interested people that are willing to contribute code access to code.google.com PhpMyLibrary SVN will be given.
+  * To see online libraries benefiting on this software click on this link [Users PhpMyLibrary Users]
 
 = Commercial or Paid Support =
 
