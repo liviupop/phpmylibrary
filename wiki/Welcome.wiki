@@ -4,8 +4,16 @@
 
 phpMyLibrary is a PHP MySQL Library automation application. The program consist of cataloging, circulation, and the webpac module. The programs also has an import export feature. The program strictly follow the USMARC standard for adding materials.
 
+= Free, Community and Programmer Support Public Forum =
+  * [http://groups.google.com/group/phpmylibrary-users PhpMyLibrary Users] - library users looking for free community support
+  * [http://groups.google.com/group/phpmylibrary-developer PhpMyLibrary Developers] - public forum for programmers. for interested people that are willing to contribute code access to code.google.com PhpMyLibrary SVN will be given.
 
 = Commercial or Paid Support =
+
+[http://www.rentacoder.com/RentACoder/SoftwareCoders/showBioInfo.asp?lngAuthorId=6881589 PhpMyLibrary Paid Support]:
+  * I decided to offer paid support service on the installation, training, configuration and customization of the PhpMyLibrary software. However, transaction will be done on RentACoder website.
+  * Interested parties may avail of this service by viewing this link [http://www.rentacoder.com/RentACoder/SoftwareCoders/showBioInfo.asp?lngAuthorId=6881589 PhpMyLibrary RentACoder Account]
+  * To avail of this service you must [https://www.rentacoder.com/Ads/authentication/login.asp?lngWId=&blnOutsideOfVBSubWeb=False&txtReturnURL=http%3A%2F%2Fwww%2Erentacoder%2Ecom%2FRentACoder%2FSoftwareBuyers%2FNewBidRequest%2Easp%3FlngForcedBiddingTypeId%3D2%26lngCoderPersonId%3D6881589&txtCancelURL=%2FRentACoder%2Fdefault%2Easp Post a new project exclusively for phpmylibrary] outlining the details of the service you need, i.e. installation, configuration, bugfix, training, customization, etc.
 
 [http://www.rentacoder.com/ Rent A Coder]:
   * ask a or rent professional coder from around the world here at [http://www.rentacoder.com/ rentacoder.com]
@@ -29,7 +37,3 @@ Additional information:
 Comments/Suggestion:
   * [http://www.slideshare.net/vimal0212/open-source-library-management-systems/ Open source Library Management Systems] - Very nice presentation. I can say Koha is top on features. PhpMyLibrary is top on usage. You can use Koha right away if you are a perl geek. You can use PhpMyLibrary right away even on hosted Windows/Linux PHP-MySQL environment and knowing only the database settings. The presentation clearly showed what are the things needed for PhpMyLibrary library features. The presentation is a must see for librarians and programmers. If you have a Perl geek in your library, I absolutely suggest using Koha. If you just want to start right away and have your 10,000 collection available online for searching then use PhpMyLibrary.
   * [http://virtual3.ceipa.edu.co/biblioteca/index.php Biblioteca Antonio Mazo Mejía] - Actual online library in Colombia with 13,965 collection. Search % sign to see it for yourself. View other libraries [Users here] as well.
-
-= Free, Community and Programmer Support Public Forum =
-  * [http://groups.google.com/group/phpmylibrary-users PhpMyLibrary Users] - library users looking for free community support
-  * [http://groups.google.com/group/phpmylibrary-developer PhpMyLibrary Developers] - public forum for programmers. for interested people that are willing to contribute code access to code.google.com PhpMyLibrary SVN will be given.
