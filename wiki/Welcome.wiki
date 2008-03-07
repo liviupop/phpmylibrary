@@ -4,13 +4,9 @@
 
 phpMyLibrary is a PHP MySQL Library automation application. The program consist of cataloging, circulation, and the webpac module. The programs also has an import export feature. The program strictly follow the USMARC standard for adding materials.
 
-= Commercial or Paid Support =
+= PhpMyLibrary Hosting For $30 Per Month =
 
-[http://www.rentacoder.com/RentACoder/SoftwareCoders/showBioInfo.asp?lngAuthorId=6881589 PhpMyLibrary Paid Support]:
-  * I decided to offer paid support service on the installation, training, configuration and customization of the PhpMyLibrary software. However, transaction will be done on RentACoder website.
-  * Interested parties may avail of this service by viewing this link [http://www.rentacoder.com/RentACoder/SoftwareCoders/showBioInfo.asp?lngAuthorId=6881589 PhpMyLibrary RentACoder Account]
-  * To avail of this service you must [https://www.rentacoder.com/Ads/authentication/login.asp?lngWId=&blnOutsideOfVBSubWeb=False&txtReturnURL=http%3A%2F%2Fwww%2Erentacoder%2Ecom%2FRentACoder%2FSoftwareBuyers%2FNewBidRequest%2Easp%3FlngForcedBiddingTypeId%3D2%26lngCoderPersonId%3D6881589&txtCancelURL=%2FRentACoder%2Fdefault%2Easp Post a new project exclusively for phpmylibrary] outlining the details of the service you need, i.e. installation, configuration, bugfix, training, customization, etc.
-  * To see online libraries benefiting on this software click on this link [Users PhpMyLibrary Users]
+[http://www.rentacoder.com/RentACoder/SoftwareCoders/showBioInfo.asp?lngAuthorId=6881589 PhpMyLibrary Use Phpmylibrary Instantly For Hassle-Free Automation Of Your Library.]
 
 = Download information =
   * http://sourceforge.net/projects/phpmylibrary
