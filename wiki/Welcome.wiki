@@ -4,9 +4,14 @@
 
 phpMyLibrary is a PHP MySQL Library automation application. The program consist of cataloging, circulation, and the webpac module. The programs also has an import export feature. The program strictly follow the USMARC standard for adding materials.
 
-= [http://phpmylibrary.com/pml/ PhpMyLibrary Hosting For $30 Per Month] =
+= [http://phpmylibrary.com/pml/ PhpMyLibrary New Version 2.3.1-1 Released] =
 
-[http://phpmylibrary.com/pml/ Use Phpmylibrary Instantly For Hassle-Free Automation Of Your Library.]
+  * Improved cataloging feature
+  * Better printing support
+  * More themes available
+  * PHP4/PHP4 compatible with no error at default install.
+  * Easy to use installer.
+  * [http://phpmylibrary.com/pml/ Version 2.3-1.1 released as PhpMyLibrary Plan 500]
 
 = Download information =
   * http://sourceforge.net/projects/phpmylibrary
